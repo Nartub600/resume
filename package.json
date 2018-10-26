@@ -2,5 +2,10 @@
   "name": "resume",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.2.1",
+    "postcss-preset-env": "^6.1.2",
+    "tailwindcss": "^0.6.6"
+  }
 }
